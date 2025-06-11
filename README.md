@@ -74,6 +74,6 @@ This dashboard helps businesses monitor their sales performance efficiently and 
 ## 📬 Contact Information
 Arushi sharma 
 Ty bca B specialization in data science
-mail-[aarushi082004@gmail.com][mailto:aarushi082004@gmail.com]
+mail[aarushi082004@gmail.com][mailto:aarushi082004@gmail.com]
 contact-8767384648
 Sri balaji university
