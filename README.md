@@ -72,7 +72,7 @@ Card, Line Chart, Bar Chart, Pie Chart, Matrix Table Visuals
 This dashboard helps businesses monitor their sales performance efficiently and make data-driven decisions. It is a flexible and dynamic tool suitable for sales managers, analysts, and decision-makers.
 
 ## 📬 Contact Information
-Arushi Sharma 
+Arushi sharma 
 Ty bca B specialization in data science
 mail-[aarushi082004@gmail.com][mailto:aarushi082004@gmail.com]
 contact-8767384648
