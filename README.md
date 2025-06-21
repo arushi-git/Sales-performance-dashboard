@@ -1,6 +1,7 @@
 # Sales-performance-dashboard
 This project showcases a comprehensive Sales Performance Dashboard built using Power BI, providing real-time insights into key business metrics such as Total Sales, **Profit, **Monthly Trends, and **Category-wise Performance across different regions# SalesPerformance-Dashboard
 This project showcases a comprehensive Sales Performance Dashboard built using Power BI, providing real-time insights into key business metrics such as Total Sales, **Profit, **Monthly Trends, and **Category-wise Performance across different regions.
+![WhatsApp Image 2025-06-21 at 17 13 07_d3d2f422](https://github.com/user-attachments/assets/d6b299d8-9def-44c7-8d54-d4b6a2f28d49)
 
 
 ---
@@ -13,8 +14,7 @@ The Sales Performance Dashboard is designed to help stakeholders visualize and a
 
 ## 📌 Key Insights
 
-- 📈 Total Sales: $120.55K
-- 💰 Total Profit: $18.40K
+- 📈 Total Sales: $120.55K!
 - 📦 Number of Items Sold: 1136
 - 📊 Average Sales: 602.77
 - 📍 Sales by Region: West performed highest with over $40.32K sales.
